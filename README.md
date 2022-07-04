@@ -3,7 +3,7 @@ The Super Bowl is an enormously popular sporting event that takes place each yea
 
 In this project, we will look at Super Bowl Data, generating insights into game outcomes, viewership, and even halftime shows. I used dataset that is already scraped and polished from wikipedia.  It consists of three CSV files: one with game, one with TV, and one with halftime performer information for each of the 52 Super Bowls from 2016 to 2018.
 
-After exploring and cleaning our data a little, we're going to answer questions like:
+After exploring data, questions such as following can be answered:
 - What are the most extreme game outcomes?
 - How does the game affect television viewership?
 - How have viewership, TV ratings, and ad cost evolved over time?
